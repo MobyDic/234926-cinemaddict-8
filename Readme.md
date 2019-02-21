@@ -1,7 +1,7 @@
 # Личный проект «Киноман» [![Build status][travis-image]][travis-url]
 
 * Студент: [Ярослав Макаренко](https://up.htmlacademy.ru/ecmascript/8/user/234926).
-* Наставник: `Неизвестно`.
+
 
 ---
 
